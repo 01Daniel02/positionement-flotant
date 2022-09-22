@@ -1,0 +1,9 @@
+@media screen and (max-width: 800px) {
+    .content, .side{
+        float: non;
+        width: 100%;
+    }
+ 
+}
+    
+}
